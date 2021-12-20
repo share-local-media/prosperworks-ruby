@@ -14,7 +14,7 @@ module ProsperWorks
     end
 
     def base_url
-      "https://api.prosperworks.com/developer_api/v#{API_VERSION_NUMBER}/"
+      "https://api.copper.com/developer_api/v#{API_VERSION_NUMBER}/"
     end
 
     def configure
